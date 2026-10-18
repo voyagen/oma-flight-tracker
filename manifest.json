@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "voyagen.flight-tracker",
+  "name": "Flight Tracker",
+  "version": "1.0.0",
+  "author": "Voyagen",
+  "license": "MIT",
+  "description": "A live flight atlas with aircraft position, recorded route, countries, cities and arrival information.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "BarWidget.qml"},
+  "barWidget": {"displayName": "Flight Tracker", "category": "Travel", "allowMultiple": false, "defaultSection": "right"}
+}
