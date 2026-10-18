@@ -2,7 +2,7 @@
 
 A native Omarchy Quattro bar plugin. The Nerd Font `nf-md-airplane` glyph (U+F001D) in the topbar opens a theme-aware geographic map with aircraft position, observed flight path, country boundaries, major cities, departure/arrival times, aircraft details, altitude, ground speed and arrival gate.
 
-![Flight Tracker first-run panel](preview.png)
+![Flight Tracker following a live San Francisco to New York flight](preview.png)
 
 ## Install
 
